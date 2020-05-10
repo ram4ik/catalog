@@ -1,8 +1,11 @@
 # Catalog
 
 [NeumorphicDesignInSwiftUI](https://github.com/ram4ik/NeumorphicDesignInSwiftUI)
+
 [CalendarInSwiftUI](https://github.com/ram4ik/CalendarInSwiftUI)
+
 [TextViewUsingUIViewRepresentable](https://github.com/ram4ik/TextViewUsingUIViewRepresentable)
+
 [CustomModifiers](https://github.com/ram4ik/CustomModifiers)
 [NavigationInListView](https://github.com/ram4ik/NavigationInListView)
 [ToggleColorCustomization](https://github.com/ram4ik/ToggleColorCustomization)
