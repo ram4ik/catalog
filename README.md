@@ -1,5 +1,7 @@
 # Catalog
 
+[SearchBar](https://github.com/ram4ik/SearchBar/tree/master)
+
 [FunFacts](https://github.com/ram4ik/FunFacts/tree/master)
 
 [eBook_app](https://github.com/ram4ik/eBook_app)
