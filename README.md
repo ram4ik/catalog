@@ -1,5 +1,7 @@
 # Catalog
 
+[wwdc2020avatars](https://github.com/ram4ik/wwdc2020avatars/tree/master)
+
 [StarbuckCoffee](https://github.com/ram4ik/StarbuckCoffee)
 
 [SearchBar](https://github.com/ram4ik/SearchBar/tree/master)
