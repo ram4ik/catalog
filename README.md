@@ -1,5 +1,7 @@
 # Catalog
 
+[StarbuckCoffee](https://github.com/ram4ik/StarbuckCoffee)
+
 [SearchBar](https://github.com/ram4ik/SearchBar/tree/master)
 
 [FunFacts](https://github.com/ram4ik/FunFacts/tree/master)
