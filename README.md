@@ -1,5 +1,7 @@
 # Catalog
 
+[VerticalSideTabBar](https://github.com/ram4ik/VerticalSideTabBar/tree/master)
+
 [wwdc2020avatars](https://github.com/ram4ik/wwdc2020avatars/tree/master)
 
 [StarbuckCoffee](https://github.com/ram4ik/StarbuckCoffee)
