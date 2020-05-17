@@ -1,5 +1,7 @@
 # Catalog
 
+[PieChart](https://github.com/ram4ik/PieChart/tree/master)
+
 [VerticalSideTabBar](https://github.com/ram4ik/VerticalSideTabBar/tree/master)
 
 [wwdc2020avatars](https://github.com/ram4ik/wwdc2020avatars/tree/master)
